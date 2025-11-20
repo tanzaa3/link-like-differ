@@ -1,0 +1,392 @@
+- Id: 201001
+  Name: スタートダッシュログインボーナス
+  LoginBonusRewardSeriesId: 201001
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 201002
+  Name: ライブグランプリ応援ログインボーナス（仮）
+  LoginBonusRewardSeriesId: 201002
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-06-21T19:00:00Z
+  EndTime: 2023-07-06T18:59:59Z
+- Id: 201003
+  Name: ルリの夏！ニッポンの夏！暑さ乗り切るハッピーサマーログインキャンペーン！
+  LoginBonusRewardSeriesId: 201003
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-07-22T19:00:00Z
+  EndTime: 2023-08-02T18:59:59Z
+- Id: 201004
+  Name: 夏バテにキュートなめぐはいかが？宿題なんてふっとばせ！エンジョイサマーログインキャンペーン！
+  LoginBonusRewardSeriesId: 201004
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-08-25T19:00:00Z
+  EndTime: 2023-09-05T18:59:59Z
+- Id: 201005
+  Name: 国産牛の秋！海の幸の秋！ 此処はゆのくに、湯けむり温泉ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201005
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-09-20T19:00:00Z
+  EndTime: 2023-09-30T18:59:59Z
+- Id: 201006
+  Name: もうすぐハーフアニバーサリーPARTY！ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201006
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-10-10T19:00:00Z
+  EndTime: 2023-10-13T18:59:59Z
+- Id: 201007
+  Name: 1st Live Tour ～RUN！CAN！FUN！～ 福岡公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201007
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-10-20T19:00:00Z
+  EndTime: 2023-10-22T18:59:59Z
+- Id: 201008
+  Name: 1st Live Tour ～RUN！CAN！FUN！～ 東京公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201008
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-11-17T19:00:00Z
+  EndTime: 2023-11-19T18:59:59Z
+- Id: 201009
+  Name: 1st Live Tour ～RUN！CAN！FUN！～ 愛知公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201009
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-11-24T19:00:00Z
+  EndTime: 2023-11-26T18:59:59Z
+- Id: 201010
+  Name: ラブライブ！地区予選応援ログインキャンペーン
+  LoginBonusRewardSeriesId: 201010
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-10-29T19:00:00Z
+  EndTime: 2023-10-30T12:00:00Z
+- Id: 201011
+  Name: リンクラ 正式リリース 0.5周年記念！スペシャルログインキャンペーン！
+  LoginBonusRewardSeriesId: 201011
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-11-20T19:00:00Z
+  EndTime: 2023-12-04T18:59:59Z
+- Id: 201012
+  Name: 異次元フェス アイドルマスター★♥ラブライブ！歌合戦 開催記念ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201012
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-12-07T19:00:00Z
+  EndTime: 2023-12-10T18:59:59Z
+- Id: 201013
+  Name: ラブライブ！- 北陸地方予選大会 - 応援ログインキャンペーン
+  LoginBonusRewardSeriesId: 201013
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-12-27T19:00:00Z
+  EndTime: 2023-12-28T12:00:00Z
+- Id: 201014
+  Name: コミックマーケット103 出展記念プレゼント！
+  LoginBonusRewardSeriesId: 201014
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-12-29T19:00:00Z
+  EndTime: 2023-12-31T18:59:59Z
+- Id: 201015
+  Name: 謹賀新年！今年もリンクラ！お年玉ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201015
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2023-12-31T19:00:00Z
+  EndTime: 2024-01-03T18:59:59Z
+- Id: 201016
+  Name: ラブライブ！大会応援ありがとう！Special Thanks ログインキャンペーン
+  LoginBonusRewardSeriesId: 201016
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-01-24T19:00:00Z
+  EndTime: 2024-01-31T18:59:59Z
+- Id: 201017
+  Name: アイカツ！×リンクラ Happy! Lucky! Collaboration!! ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201017
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-02-20T19:00:00Z
+  EndTime: 2024-03-03T18:59:59Z
+- Id: 201018
+  Name: アイカツ！×リンクラ Happy! Lucky! Collaboration!! ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201018
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-02-20T19:00:00Z
+  EndTime: 2024-03-03T18:59:59Z
+- Id: 201019
+  Name: 103期2月 Fes×LIVE応援ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201019
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-02-28T19:00:00Z
+  EndTime: 2024-02-29T12:00:00Z
+- Id: 201020
+  Name: LoveLive! Series Presents ユニット甲子園 2024 開催記念ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201020
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-03-08T19:00:00Z
+  EndTime: 2024-03-10T18:59:59Z
+- Id: 201021
+  Name: Grade Live オープン記念！育成応援ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201021
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-04-10T19:00:00Z
+  EndTime: 2024-05-01T18:59:59Z
+- Id: 201022
+  Name: ようこそ蓮ノ空女学院へ！104期オープニングログインキャンペーン！
+  LoginBonusRewardSeriesId: 201022
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-04-13T12:30:00Z
+  EndTime: 2025-03-31T18:59:59Z
+- Id: 201023
+  Name: 2nd Live Tour ～Blooming with ○○○～ 千葉公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201023
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-04-19T19:00:00Z
+  EndTime: 2024-04-21T18:59:59Z
+- Id: 201024
+  Name: 365Daysリンクラ！もうすぐ1周年ゴールデンキャンペーン！
+  LoginBonusRewardSeriesId: 201024
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-05-01T19:00:00Z
+  EndTime: 2024-05-19T18:59:59Z
+- Id: 201025
+  Name: Bloom the リンクラ！1周年メモリアルキャンペーン！
+  LoginBonusRewardSeriesId: 201025
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-05-19T19:00:00Z
+  EndTime: 2024-06-09T18:59:59Z
+- Id: 201026
+  Name: 2nd Live Tour ～Blooming with ○○○～ 兵庫公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201026
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-05-17T19:00:00Z
+  EndTime: 2024-05-19T18:59:59Z
+- Id: 201027
+  Name: ラブライブ！flowers＊―蓮ノ空女学院スクールアイドルクラブ―発売記念プレゼント！
+  LoginBonusRewardSeriesId: 201027
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-05-16T19:00:00Z
+  EndTime: 2024-05-23T18:59:59Z
+- Id: 201028
+  Name: 「蓮ノ空女学院スクールアイドルクラブ」×ドン・キホーテ コラボ記念プレゼント！
+  LoginBonusRewardSeriesId: 201028
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-07-27T03:00:00Z
+  EndTime: 2024-08-13T18:59:59Z
+- Id: 201029
+  Name: 夏色PASSION!!!!!!ヒートアップリンクラキャンペーン
+  LoginBonusRewardSeriesId: 201029
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2024-08-31T18:59:59Z
+- Id: 201030
+  Name: 103期Fes×ReC：LIVE ～first crossing～ 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201030
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-09-11T19:00:00Z
+  EndTime: 2024-09-13T18:59:59Z
+- Id: 201031
+  Name: Now or Never リンクラ！1.5周年メモリアルログインボーナス
+  LoginBonusRewardSeriesId: 201031
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-11-20T19:00:00Z
+  EndTime: 2024-12-04T18:59:59Z
+- Id: 201032
+  Name: 3rd Live Tour TRY TRI UNITY!!! with みらくらぱーく！ 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201032
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-11-15T19:00:00Z
+  EndTime: 2024-11-16T18:59:59Z
+- Id: 201033
+  Name: 3rd Live Tour TRY TRI UNITY!!! with DOLLCHESTRA 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201033
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-11-23T19:00:00Z
+  EndTime: 2024-11-24T18:59:59Z
+- Id: 201034
+  Name: 3rd Live Tour TRY TRI UNITY!!! with スリーズブーケ 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201034
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-11-30T19:00:00Z
+  EndTime: 2024-12-01T18:59:59Z
+- Id: 201035
+  Name: ゲキ！チュウマイ×リンクラ Shooting Heart♡Collaboration! ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201035
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2024-12-25T18:59:59Z
+- Id: 201036
+  Name: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  LoginBonusRewardSeriesId: 201036
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2025-01-19T18:59:59Z
+- Id: 201037
+  Name: Live & Fan Meeting TRY TRY UNITY!!! 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201037
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-12-20T19:00:00Z
+  EndTime: 2024-12-22T18:59:59Z
+- Id: 201038
+  Name: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念ログインボーナス
+  LoginBonusRewardSeriesId: 201038
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-12-23T19:00:00Z
+  EndTime: 2025-01-22T18:59:59Z
+- Id: 201039
+  Name: 2025年もリンクラ！お正月はフラワー三昧ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201039
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-12-31T19:00:00Z
+  EndTime: 2025-01-03T18:59:59Z
+- Id: 201040
+  Name: 3rd Live Tour TRI TRI UNITY!!! 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201040
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-01-09T19:00:00Z
+  EndTime: 2025-01-11T18:59:59Z
+- Id: 201041
+  Name: GiGO コラボカフェ ラブライブ！蓮ノ空女学院スクールアイドルクラブ開催記念ログインボーナス
+  LoginBonusRewardSeriesId: 201041
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-03-20T03:00:00Z
+  EndTime: 2025-04-20T18:59:59Z
+- Id: 201042
+  Name: ようこそ蓮ノ空女学院へ！105期オープニングログインキャンペーン！
+  LoginBonusRewardSeriesId: 201042
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2026-03-31T18:59:59Z
+- Id: 201043
+  Name: 4th Live Dream ～Bloom, The Dream Believers～ 石川公演開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201043
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-04-25T19:00:00Z
+  EndTime: 2025-04-27T18:59:59Z
+- Id: 201044
+  Name: Dream Show Bloom Stage, リンクラ！2周年バージョンアップキャンペーン ログインボーナス
+  LoginBonusRewardSeriesId: 201044
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2025-06-09T18:59:59Z
+- Id: 201045
+  Name: 4th Live Dream ～Bloom, The Dream Believers～ 兵庫公演開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201045
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-05-30T19:00:00Z
+  EndTime: 2025-06-01T18:59:59Z
+- Id: 201046
+  Name: 4th Live Dream ～Bloom, The Dream Believers～ 102期卒業公演開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201046
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-06-06T19:00:00Z
+  EndTime: 2025-06-08T18:59:59Z
+- Id: 201047
+  Name: POP UP SHOP＊アイドゥーミー！＊ログインボーナス
+  LoginBonusRewardSeriesId: 201047
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2025-08-20T18:59:59Z
+- Id: 201048
+  Name: 忘れられない煉獄い夏！リズミックサマーログインキャンペーン！
+  LoginBonusRewardSeriesId: 201048
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-07-31T19:00:00Z
+  EndTime: 2025-08-31T18:59:59Z
+- Id: 201049
+  Name: BLACK COLLECTION by ZOZOTOWN コラボ記念！ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201049
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-08-22T03:00:00Z
+  EndTime: 2025-09-15T18:59:59Z
+- Id: 201050
+  Name: 5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201050
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-10-03T19:00:00Z
+  EndTime: 2025-10-05T18:59:59Z
+- Id: 201051
+  Name: リンクラに夢が咲くように 2.5周年ログインボーナス
+  LoginBonusRewardSeriesId: 201051
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2025-12-04T18:59:59Z
+- Id: 201052
+  Name: ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン
+  LoginBonusRewardSeriesId: 201052
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2025-11-02T18:59:59Z
+- Id: 201054
+  Name: 5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201054
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-11-07T19:00:00Z
+  EndTime: 2025-11-09T18:59:59Z
+- Id: 201055
+  Name: 5th Live Tour ～4Pair Power Spread!!!!～ Edel Note presents Spade Stage 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201055
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-11-18T19:00:00Z
+  EndTime: 2025-11-20T18:59:59Z
+- Id: 201057
+  Name: POP UP SHOP ～チャイナコレクション～ 開催記念ログインキャンペーン
+  LoginBonusRewardSeriesId: 201057
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-11-07T03:00:00Z
+  EndTime: 2025-11-24T18:59:59Z
+- Id: 201058
+  Name: GiGO×fanfancy+ ログインキャンペーン
+  LoginBonusRewardSeriesId: 201058
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-11-09T12:00:00Z
+  EndTime: 2026-01-04T18:59:59Z

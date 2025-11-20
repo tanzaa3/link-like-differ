@@ -1,0 +1,225 @@
+- Id: 50000001
+  Name: 103期キービジュアル
+  OrderId: 998
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000002
+  Name: 103期ティザービジュアル
+  OrderId: 999
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000003
+  Name: 学校正門前
+  OrderId: 1001
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000004
+  Name: 教室廊下
+  OrderId: 1002
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000005
+  Name: 校舎
+  OrderId: 1003
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000006
+  Name: 屋上
+  OrderId: 1004
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000007
+  Name: 部室前廊下
+  OrderId: 1005
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000008
+  Name: 部室
+  OrderId: 1006
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000009
+  Name: レッスンルーム
+  OrderId: 1007
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000010
+  Name: 学食
+  OrderId: 1008
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000011
+  Name: 寮 ラウンジ
+  OrderId: 1009
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000012
+  Name: 梢 103期冬制服
+  OrderId: 19904
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000013
+  Name: 綴理 103期冬制服
+  OrderId: 19905
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000014
+  Name: 慈 103期冬制服
+  OrderId: 19906
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000015
+  Name: 花帆 103期冬制服
+  OrderId: 19901
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000016
+  Name: さやか 103期冬制服
+  OrderId: 19902
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000017
+  Name: 瑠璃乃 103期冬制服
+  OrderId: 19903
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000018
+  Name: 部活棟前
+  OrderId: 1010
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000019
+  Name: 寮 廊下
+  OrderId: 1011
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000020
+  Name: 中庭
+  OrderId: 1012
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000021
+  Name: 104期キービジュアル
+  OrderId: 997
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50000022
+  Name: 105期キービジュアル
+  OrderId: 996
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50310212
+  Name: 梢 103期夏制服
+  OrderId: 19910
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50310222
+  Name: 綴理 103期夏制服
+  OrderId: 19911
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50310232
+  Name: 慈 103期夏制服
+  OrderId: 19912
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50310312
+  Name: 花帆 103期夏制服
+  OrderId: 19907
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50310322
+  Name: さやか 103期夏制服
+  OrderId: 19908
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50310332
+  Name: 瑠璃乃 103期夏制服
+  OrderId: 19909
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410211
+  Name: 梢 104期冬制服
+  OrderId: 19807
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410221
+  Name: 綴理 104期冬制服
+  OrderId: 19808
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410231
+  Name: 慈 104期冬制服
+  OrderId: 19809
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410311
+  Name: 花帆 104期冬制服
+  OrderId: 19804
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410321
+  Name: さやか 104期冬制服
+  OrderId: 19805
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410331
+  Name: 瑠璃乃 104期冬制服
+  OrderId: 19806
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410411
+  Name: 吟子 104期冬制服
+  OrderId: 19801
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410421
+  Name: 小鈴 104期冬制服
+  OrderId: 19802
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50410431
+  Name: 姫芽 104期冬制服
+  OrderId: 19803
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510311
+  Name: 花帆 105期冬制服
+  OrderId: 19706
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510321
+  Name: さやか 105期冬制服
+  OrderId: 19707
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510331
+  Name: 瑠璃乃 105期冬制服
+  OrderId: 19708
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510411
+  Name: 吟子 105期冬制服
+  OrderId: 19703
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510421
+  Name: 小鈴 105期冬制服
+  OrderId: 19704
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510431
+  Name: 姫芽 105期冬制服
+  OrderId: 19705
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510511
+  Name: 泉 105期冬制服
+  OrderId: 19702
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510521
+  Name: セラス 105期冬制服
+  OrderId: 19701
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
