@@ -8589,6 +8589,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: メイン効果がトークンカード追加またはハートキャプチャのスキルを使用するたび、このステージ中、獲得するLOVEを+3000%し、またメイン効果がボルテージ増加またはラブアトラクトのスキルを使用するたび、このステージ中、獲得するLOVEを-1000%する。
+  StageSkillSetIds: 100145,100146,200070,200074
 - Id: 805282
   Name: 体育館
   Description: 学校の体育館
