@@ -126519,297 +126519,297 @@
 - Id: 1043406001
   CardSkillSeriesId: 10434060
   SkillLevel: 1
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060010"
-  Description: -
+  CardSkillEffectId: 10434060010,10434060012
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406002
   CardSkillSeriesId: 10434060
   SkillLevel: 2
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060020"
-  Description: -
+  CardSkillEffectId: 10434060020,10434060022
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406003
   CardSkillSeriesId: 10434060
   SkillLevel: 3
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060030"
-  Description: -
+  CardSkillEffectId: 10434060030,10434060032
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406004
   CardSkillSeriesId: 10434060
   SkillLevel: 4
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060040"
-  Description: -
+  CardSkillEffectId: 10434060040,10434060042
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406005
   CardSkillSeriesId: 10434060
   SkillLevel: 5
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060050"
-  Description: -
+  CardSkillEffectId: 10434060050,10434060052
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406006
   CardSkillSeriesId: 10434060
   SkillLevel: 6
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060060"
-  Description: -
+  CardSkillEffectId: 10434060060,10434060062
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406007
   CardSkillSeriesId: 10434060
   SkillLevel: 7
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060070"
-  Description: -
+  CardSkillEffectId: 10434060070,10434060072
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406008
   CardSkillSeriesId: 10434060
   SkillLevel: 8
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060080"
-  Description: -
+  CardSkillEffectId: 10434060080,10434060082
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406009
   CardSkillSeriesId: 10434060
   SkillLevel: 9
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060090"
-  Description: -
+  CardSkillEffectId: 10434060090,10434060092
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406010
   CardSkillSeriesId: 10434060
   SkillLevel: 10
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060100"
-  Description: -
+  CardSkillEffectId: 10434060100,10434060102
+  Description: 1セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406011
   CardSkillSeriesId: 10434060
   SkillLevel: 11
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060110"
-  Description: -
+  CardSkillEffectId: 10434060110,10434060112
+  Description: 1セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406012
   CardSkillSeriesId: 10434060
   SkillLevel: 12
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060120"
-  Description: -
+  CardSkillEffectId: 10434060120,10434060122
+  Description: 1セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406013
   CardSkillSeriesId: 10434060
   SkillLevel: 13
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060130"
-  Description: -
+  CardSkillEffectId: 10434060130,10434060132
+  Description: 1セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406014
   CardSkillSeriesId: 10434060
   SkillLevel: 14
-  SkillCost: 7
+  SkillCost: 2
   ApperanceType: 10434060
-  CardSkillEffectId: "10434060140"
-  Description: -
+  CardSkillEffectId: 10434060140,10434060142
+  Description: 1セクション目で使用したとき、APを$8$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406101
   CardSkillSeriesId: 10434061
   SkillLevel: 1
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060010"
-  Description: -
+  CardSkillEffectId: 10434060010,10434060012
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406102
   CardSkillSeriesId: 10434061
   SkillLevel: 2
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060020"
-  Description: -
+  CardSkillEffectId: 10434060020,10434060022
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406103
   CardSkillSeriesId: 10434061
   SkillLevel: 3
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060030"
-  Description: -
+  CardSkillEffectId: 10434060030,10434060032
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406104
   CardSkillSeriesId: 10434061
   SkillLevel: 4
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060040"
-  Description: -
+  CardSkillEffectId: 10434060040,10434060042
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406105
   CardSkillSeriesId: 10434061
   SkillLevel: 5
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060050"
-  Description: -
+  CardSkillEffectId: 10434060050,10434060052
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406106
   CardSkillSeriesId: 10434061
   SkillLevel: 6
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060060"
-  Description: -
+  CardSkillEffectId: 10434060060,10434060062
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406107
   CardSkillSeriesId: 10434061
   SkillLevel: 7
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060070"
-  Description: -
+  CardSkillEffectId: 10434060070,10434060072
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406108
   CardSkillSeriesId: 10434061
   SkillLevel: 8
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060080"
-  Description: -
+  CardSkillEffectId: 10434060080,10434060082
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406109
   CardSkillSeriesId: 10434061
   SkillLevel: 9
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060090"
-  Description: -
+  CardSkillEffectId: 10434060090,10434060092
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406110
   CardSkillSeriesId: 10434061
   SkillLevel: 10
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060100"
-  Description: -
+  CardSkillEffectId: 10434060100,10434060102
+  Description: 1セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406111
   CardSkillSeriesId: 10434061
   SkillLevel: 11
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060110"
-  Description: -
+  CardSkillEffectId: 10434060110,10434060112
+  Description: 1セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406112
   CardSkillSeriesId: 10434061
   SkillLevel: 12
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060120"
-  Description: -
+  CardSkillEffectId: 10434060120,10434060122
+  Description: 1セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406113
   CardSkillSeriesId: 10434061
   SkillLevel: 13
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060130"
-  Description: -
+  CardSkillEffectId: 10434060130,10434060132
+  Description: 1セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406114
   CardSkillSeriesId: 10434061
   SkillLevel: 14
-  SkillCost: 6
+  SkillCost: 1
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060140"
-  Description: -
+  CardSkillEffectId: 10434060140,10434060142
+  Description: 1セクション目で使用したとき、APを$8$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406201
   CardSkillSeriesId: 10434062
   SkillLevel: 1
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060010"
-  Description: -
+  CardSkillEffectId: 10434060010,10434060012
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406202
   CardSkillSeriesId: 10434062
   SkillLevel: 2
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060020"
-  Description: -
+  CardSkillEffectId: 10434060020,10434060022
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406203
   CardSkillSeriesId: 10434062
   SkillLevel: 3
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060030"
-  Description: -
+  CardSkillEffectId: 10434060030,10434060032
+  Description: 1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406204
   CardSkillSeriesId: 10434062
   SkillLevel: 4
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060040"
-  Description: -
+  CardSkillEffectId: 10434060040,10434060042
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406205
   CardSkillSeriesId: 10434062
   SkillLevel: 5
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060050"
-  Description: -
+  CardSkillEffectId: 10434060050,10434060052
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406206
   CardSkillSeriesId: 10434062
   SkillLevel: 6
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060060"
-  Description: -
+  CardSkillEffectId: 10434060060,10434060062
+  Description: 1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406207
   CardSkillSeriesId: 10434062
   SkillLevel: 7
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060070"
-  Description: -
+  CardSkillEffectId: 10434060070,10434060072
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406208
   CardSkillSeriesId: 10434062
   SkillLevel: 8
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060080"
-  Description: -
+  CardSkillEffectId: 10434060080,10434060082
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406209
   CardSkillSeriesId: 10434062
   SkillLevel: 9
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060090"
-  Description: -
+  CardSkillEffectId: 10434060090,10434060092
+  Description: 1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406210
   CardSkillSeriesId: 10434062
   SkillLevel: 10
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060100"
-  Description: -
+  CardSkillEffectId: 10434060100,10434060102
+  Description: 1セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406211
   CardSkillSeriesId: 10434062
   SkillLevel: 11
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060110"
-  Description: -
+  CardSkillEffectId: 10434060110,10434060112
+  Description: 1セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406212
   CardSkillSeriesId: 10434062
   SkillLevel: 12
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060120"
-  Description: -
+  CardSkillEffectId: 10434060120,10434060122
+  Description: 1セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406213
   CardSkillSeriesId: 10434062
   SkillLevel: 13
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060130"
-  Description: -
+  CardSkillEffectId: 10434060130,10434060132
+  Description: 1セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043406214
   CardSkillSeriesId: 10434062
   SkillLevel: 14
-  SkillCost: 5
+  SkillCost: 0
   ApperanceType: 10434061
-  CardSkillEffectId: "10434060140"
-  Description: -
+  CardSkillEffectId: 10434060140,10434060142
+  Description: 1セクション目で使用したとき、APを$8$回復し、このセクション中、手札の上限枚数を2枚増加する。
 - Id: 1043501001
   CardSkillSeriesId: 10435010
   SkillLevel: 1
@@ -186299,101 +186299,101 @@
 - Id: 2043406001
   CardSkillSeriesId: 20434060
   SkillLevel: 1
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060010"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060010,20434060011,20434060012,20434060014
+  Description: 4回の間ラブアトラクト効果を$+4.3%$し、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406002
   CardSkillSeriesId: 20434060
   SkillLevel: 2
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060020"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060020,20434060021,20434060022,20434060024
+  Description: 4回の間ラブアトラクト効果を$+4.8%$し、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406003
   CardSkillSeriesId: 20434060
   SkillLevel: 3
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060030"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060030,20434060031,20434060032,20434060034
+  Description: 4回の間ラブアトラクト効果を$+5.2%$し、このセクション中、ムード値をハッピー方向に$+10$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406004
   CardSkillSeriesId: 20434060
   SkillLevel: 4
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060040"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060040,20434060041,20434060042,20434060044
+  Description: 4回の間ラブアトラクト効果を$+5.6%$し、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406005
   CardSkillSeriesId: 20434060
   SkillLevel: 5
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060050"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060050,20434060051,20434060052,20434060054
+  Description: 4回の間ラブアトラクト効果を$+6%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406006
   CardSkillSeriesId: 20434060
   SkillLevel: 6
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060060"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060060,20434060061,20434060062,20434060064
+  Description: 4回の間ラブアトラクト効果を$+6.5%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406007
   CardSkillSeriesId: 20434060
   SkillLevel: 7
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060070"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060070,20434060071,20434060072,20434060074
+  Description: 4回の間ラブアトラクト効果を$+6.9%$し、このセクション中、ムード値をハッピー方向に$+13$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406008
   CardSkillSeriesId: 20434060
   SkillLevel: 8
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060080"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060080,20434060081,20434060082,20434060084
+  Description: 4回の間ラブアトラクト効果を$+7.3%$し、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406009
   CardSkillSeriesId: 20434060
   SkillLevel: 9
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060090"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060090,20434060091,20434060092,20434060094
+  Description: 4回の間ラブアトラクト効果を$+7.8%$し、このセクション中、ムード値をハッピー方向に$+15$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406010
   CardSkillSeriesId: 20434060
   SkillLevel: 10
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060100"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060100,20434060101,20434060102,20434060104
+  Description: 4回の間ラブアトラクト効果を$+8.6%$し、このセクション中、ムード値をハッピー方向に$+16$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406011
   CardSkillSeriesId: 20434060
   SkillLevel: 11
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060110"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060110,20434060111,20434060112,20434060114
+  Description: 4回の間ラブアトラクト効果を$+9.1%$し、このセクション中、ムード値をハッピー方向に$+17$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406012
   CardSkillSeriesId: 20434060
   SkillLevel: 12
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060120"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060120,20434060121,20434060122,20434060124
+  Description: 4回の間ラブアトラクト効果を$+9.5%$し、このセクション中、ムード値をハッピー方向に$+18$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406013
   CardSkillSeriesId: 20434060
   SkillLevel: 13
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060130"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060130,20434060131,20434060132,20434060134
+  Description: 4回の間ラブアトラクト効果を$+9.9%$し、このセクション中、ムード値をハッピー方向に$+19$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043406014
   CardSkillSeriesId: 20434060
   SkillLevel: 14
-  SkillCost: 5
-  ApperanceType: 10000010
-  CardSkillEffectId: "20434060140"
-  Description: -
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 20434060140,20434060141,20434060142,20434060144
+  Description: 4回の間ラブアトラクト効果を$+10.8%$し、このセクション中、ムード値をハッピー方向に$+20$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。
 - Id: 2043501001
   CardSkillSeriesId: 20435010
   SkillLevel: 1
@@ -197712,7 +197712,7 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30415220010"
-  Description: ドローした時、ボルテージLv.に応じてこのセクション中、AP回復速度が増加する。
+  Description: ドローした時、このセクション中、AP回復速度を+4.5%する。ボルテージLv.15ごと、最大150Lv.で20倍まで効果量が増加する。
 - Id: 3041801001
   CardSkillSeriesId: 30418010
   SkillLevel: 1
@@ -197984,8 +197984,8 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30434060010"
-  Description: -
+  CardSkillEffectId: 30434060010,30434060012,30434060014
+  Description: スキル使用時1回まで、ペアカード[ハートにQ]大沢 瑠璃乃を1種類(合計1枚)山札に追加する。さらに手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、このステージ中、獲得するLOVEを$+400%する。
 - Id: 3043501001
   CardSkillSeriesId: 30435010
   SkillLevel: 1
@@ -209312,6 +209312,104 @@
   ApperanceType: 10000020
   CardSkillEffectId: 80465030140,80465030141,80465030142,80465030144,80465030145,80465030147
   Description: それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+75%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+400$し、ビートハート$100回分$のスキルハートを獲得する。
+- Id: 8047501001
+  CardSkillSeriesId: 80475010
+  SkillLevel: 1
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010010,80475010011,80475010012,80475010014
+  Description: 4回の間ラブアトラクト効果を$+4.3%$し、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+32%$し、ビートハート$40回分$のスキルハートを獲得する。
+- Id: 8047501002
+  CardSkillSeriesId: 80475010
+  SkillLevel: 2
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010020,80475010021,80475010022,80475010024
+  Description: 4回の間ラブアトラクト効果を$+4.8%$し、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+35.2%$し、ビートハート$44回分$のスキルハートを獲得する。
+- Id: 8047501003
+  CardSkillSeriesId: 80475010
+  SkillLevel: 3
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010030,80475010031,80475010032,80475010034
+  Description: 4回の間ラブアトラクト効果を$+5.2%$し、このセクション中、ムード値をハッピー方向に$+10$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+38.4%$し、ビートハート$48回分$のスキルハートを獲得する。
+- Id: 8047501004
+  CardSkillSeriesId: 80475010
+  SkillLevel: 4
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010040,80475010041,80475010042,80475010044
+  Description: 4回の間ラブアトラクト効果を$+5.6%$し、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+41.6%$し、ビートハート$52回分$のスキルハートを獲得する。
+- Id: 8047501005
+  CardSkillSeriesId: 80475010
+  SkillLevel: 5
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010050,80475010051,80475010052,80475010054
+  Description: 4回の間ラブアトラクト効果を$+6%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+44.8%$し、ビートハート$56回分$のスキルハートを獲得する。
+- Id: 8047501006
+  CardSkillSeriesId: 80475010
+  SkillLevel: 6
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010060,80475010061,80475010062,80475010064
+  Description: 4回の間ラブアトラクト効果を$+6.5%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+48%$し、ビートハート$60回分$のスキルハートを獲得する。
+- Id: 8047501007
+  CardSkillSeriesId: 80475010
+  SkillLevel: 7
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010070,80475010071,80475010072,80475010074
+  Description: 4回の間ラブアトラクト効果を$+6.9%$し、このセクション中、ムード値をハッピー方向に$+13$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+51.2%$し、ビートハート$64回分$のスキルハートを獲得する。
+- Id: 8047501008
+  CardSkillSeriesId: 80475010
+  SkillLevel: 8
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010080,80475010081,80475010082,80475010084
+  Description: 4回の間ラブアトラクト効果を$+7.3%$し、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+54.4%$し、ビートハート$68回分$のスキルハートを獲得する。
+- Id: 8047501009
+  CardSkillSeriesId: 80475010
+  SkillLevel: 9
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010090,80475010091,80475010092,80475010094
+  Description: 4回の間ラブアトラクト効果を$+7.8%$し、このセクション中、ムード値をハッピー方向に$+15$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+57.6%$し、ビートハート$72回分$のスキルハートを獲得する。
+- Id: 8047501010
+  CardSkillSeriesId: 80475010
+  SkillLevel: 10
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010100,80475010101,80475010102,80475010104
+  Description: 4回の間ラブアトラクト効果を$+8.6%$し、このセクション中、ムード値をハッピー方向に$+16$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+64%$し、ビートハート$80回分$のスキルハートを獲得する。
+- Id: 8047501011
+  CardSkillSeriesId: 80475010
+  SkillLevel: 11
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010110,80475010111,80475010112,80475010114
+  Description: 4回の間ラブアトラクト効果を$+9.1%$し、このセクション中、ムード値をハッピー方向に$+17$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+67.2%$し、ビートハート$84回分$のスキルハートを獲得する。
+- Id: 8047501012
+  CardSkillSeriesId: 80475010
+  SkillLevel: 12
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010120,80475010121,80475010122,80475010124
+  Description: 4回の間ラブアトラクト効果を$+9.5%$し、このセクション中、ムード値をハッピー方向に$+18$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+70.4%$し、ビートハート$88回分$のスキルハートを獲得する。
+- Id: 8047501013
+  CardSkillSeriesId: 80475010
+  SkillLevel: 13
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010130,80475010131,80475010132,80475010134
+  Description: 4回の間ラブアトラクト効果を$+9.9%$し、このセクション中、ムード値をハッピー方向に$+19$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+73.6%$し、ビートハート$92回分$のスキルハートを獲得する。
+- Id: 8047501014
+  CardSkillSeriesId: 80475010
+  SkillLevel: 14
+  SkillCost: 4
+  ApperanceType: 10000020
+  CardSkillEffectId: 80475010140,80475010141,80475010142,80475010144
+  Description: 4回の間ラブアトラクト効果を$+10.8%$し、このセクション中、ムード値をハッピー方向に$+20$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+80%$し、ビートハート$100回分$のスキルハートを獲得する。
 - Id: 9001301001
   CardSkillSeriesId: 90013010
   SkillLevel: 1
@@ -210081,18 +210179,25 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: 90465010010,904650100122
-  Description: ドローした時、ボルテージLv.に応じてスキルハートを獲得する。さらに手札にある状態でハートを40000個回収したとき、ビートハート1000回分のスキルハートを獲得する。
+  Description: ドローした時、ビートハート8回分のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で20倍まで効果量が増加する。さらに手札にある状態でハートを40000個回収したとき、ビートハート1000回分のスキルハートを獲得する。
 - Id: 9046502001
   CardSkillSeriesId: 90465020
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: 90465020010,904650200122
-  Description: ドローした時、ボルテージLv.に応じてスキルハートを獲得する。さらにこのスキルを使用すると、デッキから除外される。
+  Description: ドローした時、ビートハート8回分のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で20倍まで効果量が増加する。さらにこのスキルを使用すると、デッキから除外される。
 - Id: 9046503001
   CardSkillSeriesId: 90465030
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: 90465030010,904650300122
-  Description: ドローした時、ボルテージLv.に応じてスキルハートを獲得する。さらにこのスキルを使用すると、デッキから除外される。
+  Description: ドローした時、ビートハート8回分のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で20倍まで効果量が増加する。さらにこのスキルを使用すると、デッキから除外される。
+- Id: 9047501001
+  CardSkillSeriesId: 90475010
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: 90475010010,90475010012
+  Description: 手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、4回の間ラブアトラクト効果を+40%する。
