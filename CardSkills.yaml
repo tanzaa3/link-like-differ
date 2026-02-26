@@ -66249,297 +66249,297 @@
 - Id: 1031803001
   CardSkillSeriesId: 10318030
   SkillLevel: 1
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030010"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030010,10318030011
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+3999.6%$する。
 - Id: 1031803002
   CardSkillSeriesId: 10318030
   SkillLevel: 2
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030020"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030020,10318030021
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+4399.6%$する。
 - Id: 1031803003
   CardSkillSeriesId: 10318030
   SkillLevel: 3
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030030"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030030,10318030031
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+4799.5%$する。
 - Id: 1031803004
   CardSkillSeriesId: 10318030
   SkillLevel: 4
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030040"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030040,10318030041
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5199.5%$する。
 - Id: 1031803005
   CardSkillSeriesId: 10318030
   SkillLevel: 5
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030050"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030050,10318030051
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5599.4%$する。
 - Id: 1031803006
   CardSkillSeriesId: 10318030
   SkillLevel: 6
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030060"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030060,10318030061
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5999.4%$する。
 - Id: 1031803007
   CardSkillSeriesId: 10318030
   SkillLevel: 7
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030070"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030070,10318030071
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+6399.4%$する。
 - Id: 1031803008
   CardSkillSeriesId: 10318030
   SkillLevel: 8
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030080"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030080,10318030081
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+6799.3%$する。
 - Id: 1031803009
   CardSkillSeriesId: 10318030
   SkillLevel: 9
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030090"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030090,10318030091
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+7199.3%$する。
 - Id: 1031803010
   CardSkillSeriesId: 10318030
   SkillLevel: 10
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030100"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030100,10318030101
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+7999.2%$する。
 - Id: 1031803011
   CardSkillSeriesId: 10318030
   SkillLevel: 11
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030110"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030110,10318030111
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+8399.2%$する。
 - Id: 1031803012
   CardSkillSeriesId: 10318030
   SkillLevel: 12
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030120"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030120,10318030121
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+8799.1%$する。
 - Id: 1031803013
   CardSkillSeriesId: 10318030
   SkillLevel: 13
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030130"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030130,10318030131
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+9199.1%$する。
 - Id: 1031803014
   CardSkillSeriesId: 10318030
   SkillLevel: 14
-  SkillCost: 2
+  SkillCost: 3
   ApperanceType: 10318030
-  CardSkillEffectId: "10318030140"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030140,10318030141
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+9999%$する。
 - Id: 1031803101
   CardSkillSeriesId: 10318031
   SkillLevel: 1
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030010"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030010,10318030011
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+3999.6%$する。
 - Id: 1031803102
   CardSkillSeriesId: 10318031
   SkillLevel: 2
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030020"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030020,10318030021
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+4399.6%$する。
 - Id: 1031803103
   CardSkillSeriesId: 10318031
   SkillLevel: 3
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030030"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030030,10318030031
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+4799.5%$する。
 - Id: 1031803104
   CardSkillSeriesId: 10318031
   SkillLevel: 4
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030040"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030040,10318030041
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5199.5%$する。
 - Id: 1031803105
   CardSkillSeriesId: 10318031
   SkillLevel: 5
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030050"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030050,10318030051
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5599.4%$する。
 - Id: 1031803106
   CardSkillSeriesId: 10318031
   SkillLevel: 6
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030060"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030060,10318030061
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5999.4%$する。
 - Id: 1031803107
   CardSkillSeriesId: 10318031
   SkillLevel: 7
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030070"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030070,10318030071
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+6399.4%$する。
 - Id: 1031803108
   CardSkillSeriesId: 10318031
   SkillLevel: 8
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030080"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030080,10318030081
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+6799.3%$する。
 - Id: 1031803109
   CardSkillSeriesId: 10318031
   SkillLevel: 9
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030090"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030090,10318030091
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+7199.3%$する。
 - Id: 1031803110
   CardSkillSeriesId: 10318031
   SkillLevel: 10
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030100"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030100,10318030101
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+7999.2%$する。
 - Id: 1031803111
   CardSkillSeriesId: 10318031
   SkillLevel: 11
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030110"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030110,10318030111
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+8399.2%$する。
 - Id: 1031803112
   CardSkillSeriesId: 10318031
   SkillLevel: 12
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030120"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030120,10318030121
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+8799.1%$する。
 - Id: 1031803113
   CardSkillSeriesId: 10318031
   SkillLevel: 13
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030130"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030130,10318030131
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+9199.1%$する。
 - Id: 1031803114
   CardSkillSeriesId: 10318031
   SkillLevel: 14
-  SkillCost: 1
+  SkillCost: 2
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030140"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030140,10318030141
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+9999%$する。
 - Id: 1031803201
   CardSkillSeriesId: 10318032
   SkillLevel: 1
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030010"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030010,10318030011
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+3999.6%$する。
 - Id: 1031803202
   CardSkillSeriesId: 10318032
   SkillLevel: 2
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030020"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030020,10318030021
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+4399.6%$する。
 - Id: 1031803203
   CardSkillSeriesId: 10318032
   SkillLevel: 3
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030030"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030030,10318030031
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+4799.5%$する。
 - Id: 1031803204
   CardSkillSeriesId: 10318032
   SkillLevel: 4
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030040"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030040,10318030041
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5199.5%$する。
 - Id: 1031803205
   CardSkillSeriesId: 10318032
   SkillLevel: 5
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030050"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030050,10318030051
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5599.4%$する。
 - Id: 1031803206
   CardSkillSeriesId: 10318032
   SkillLevel: 6
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030060"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030060,10318030061
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+5999.4%$する。
 - Id: 1031803207
   CardSkillSeriesId: 10318032
   SkillLevel: 7
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030070"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030070,10318030071
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+6399.4%$する。
 - Id: 1031803208
   CardSkillSeriesId: 10318032
   SkillLevel: 8
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030080"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030080,10318030081
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+6799.3%$する。
 - Id: 1031803209
   CardSkillSeriesId: 10318032
   SkillLevel: 9
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030090"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030090,10318030091
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+7199.3%$する。
 - Id: 1031803210
   CardSkillSeriesId: 10318032
   SkillLevel: 10
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030100"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030100,10318030101
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+7999.2%$する。
 - Id: 1031803211
   CardSkillSeriesId: 10318032
   SkillLevel: 11
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030110"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030110,10318030111
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+8399.2%$する。
 - Id: 1031803212
   CardSkillSeriesId: 10318032
   SkillLevel: 12
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030120"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030120,10318030121
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+8799.1%$する。
 - Id: 1031803213
   CardSkillSeriesId: 10318032
   SkillLevel: 13
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030130"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030130,10318030131
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+9199.1%$する。
 - Id: 1031803214
   CardSkillSeriesId: 10318032
   SkillLevel: 14
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10318031
-  CardSkillEffectId: "10318030140"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 10318030140,10318030141
+  Description: このステージ中、AP回復速度を-9999%する。さらにこのステージ中、スキルハート獲得効果による獲得数を$+9999%$する。
 - Id: 1031901001
   CardSkillSeriesId: 10319010
   SkillLevel: 1
@@ -170717,101 +170717,101 @@
 - Id: 2031803001
   CardSkillSeriesId: 20318030
   SkillLevel: 1
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030010"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030010,20318030011,20318030012
+  Description: ビートハート$2222回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+2222$し、獲得するLOVEを$+2222%$する。
 - Id: 2031803002
   CardSkillSeriesId: 20318030
   SkillLevel: 2
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030020"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030020,20318030021,20318030022
+  Description: ビートハート$2444回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+2444$し、獲得するLOVEを$+2444.2%$する。
 - Id: 2031803003
   CardSkillSeriesId: 20318030
   SkillLevel: 3
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030030"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030030,20318030031,20318030032
+  Description: ビートハート$2666回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+2666$し、獲得するLOVEを$+2666.4%$する。
 - Id: 2031803004
   CardSkillSeriesId: 20318030
   SkillLevel: 4
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030040"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030040,20318030041,20318030042
+  Description: ビートハート$2889回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+2889$し、獲得するLOVEを$+2888.6%$する。
 - Id: 2031803005
   CardSkillSeriesId: 20318030
   SkillLevel: 5
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030050"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030050,20318030051,20318030052
+  Description: ビートハート$3111回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+3111$し、獲得するLOVEを$+3110.8%$する。
 - Id: 2031803006
   CardSkillSeriesId: 20318030
   SkillLevel: 6
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030060"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030060,20318030061,20318030062
+  Description: ビートハート$3333回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+3333$し、獲得するLOVEを$+3333%$する。
 - Id: 2031803007
   CardSkillSeriesId: 20318030
   SkillLevel: 7
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030070"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030070,20318030071,20318030072
+  Description: ビートハート$3555回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+3555$し、獲得するLOVEを$+3555.2%$する。
 - Id: 2031803008
   CardSkillSeriesId: 20318030
   SkillLevel: 8
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030080"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030080,20318030081,20318030082
+  Description: ビートハート$3777回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+3777$し、獲得するLOVEを$+3777.4%$する。
 - Id: 2031803009
   CardSkillSeriesId: 20318030
   SkillLevel: 9
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030090"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030090,20318030091,20318030092
+  Description: ビートハート$4000回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+4000$し、獲得するLOVEを$+3999.6%$する。
 - Id: 2031803010
   CardSkillSeriesId: 20318030
   SkillLevel: 10
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030100"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030100,20318030101,20318030102
+  Description: ビートハート$4444回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+4444$し、獲得するLOVEを$+4444%$する。
 - Id: 2031803011
   CardSkillSeriesId: 20318030
   SkillLevel: 11
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030110"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030110,20318030111,20318030112
+  Description: ビートハート$4666回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+4666$し、獲得するLOVEを$+4666.2%$する。
 - Id: 2031803012
   CardSkillSeriesId: 20318030
   SkillLevel: 12
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030120"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030120,20318030121,20318030122
+  Description: ビートハート$4888回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+4888$し、獲得するLOVEを$+4888.4%$する。
 - Id: 2031803013
   CardSkillSeriesId: 20318030
   SkillLevel: 13
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030130"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030130,20318030131,20318030132
+  Description: ビートハート$5111回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+5111$し、獲得するLOVEを$+5110.6%$する。
 - Id: 2031803014
   CardSkillSeriesId: 20318030
   SkillLevel: 14
-  SkillCost: 0
+  SkillCost: 1
   ApperanceType: 10000010
-  CardSkillEffectId: "20318030140"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 20318030140,20318030141,20318030142
+  Description: ビートハート$5555回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+5555$し、獲得するLOVEを$+5555%$する。
 - Id: 2031901001
   CardSkillSeriesId: 20319010
   SkillLevel: 1
@@ -202975,8 +202975,8 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30318030010"
-  Description: 〓〓〓〓〓〓〓
+  CardSkillEffectId: 30318030010,30318030014,30318030018,303180300112,303180300116,303180300118,303180300120
+  Description: ドローした時、AP、ボルテージPt.、メンタルを0にする。さらにデッキ枚数が1枚でこのスキルを使用した時、このステージ中、AP、ボルテージLv.、メンタルを無限にし、デッキから除外される。
 - Id: 3031901001
   CardSkillSeriesId: 30319010
   SkillLevel: 1
